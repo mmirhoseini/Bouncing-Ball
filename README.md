@@ -1,4 +1,4 @@
-# Bouncing-Ball
+# bouncing_ball
 
 <h1>Bouncing Ball Unity3D Game</h1>
 **Bouncing Ball** is a simple game with a ball and taping to avoid poping with obstacles.
